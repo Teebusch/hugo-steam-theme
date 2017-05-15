@@ -24,6 +24,7 @@ li,
 dt,
 dd {
   font-family: "Merriweather", "Open Sans", "Helvetica Neue", Helvetica, Arial, "Nimbus L", sans-serif;
+  overflow-wrap: break-word;
 }
 h1,
 .post-meta {
